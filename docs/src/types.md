@@ -1,5 +1,5 @@
-The following types are exported and available by `using MSQ`.
+The following types are exported and available by `using gargamel`.
 ```@autodocs
-Modules = [MSQ]
+Modules = [gargamel]
 Order = [:type]
 ```

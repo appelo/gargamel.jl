@@ -1,4 +1,4 @@
 ```@index
-Modules = [MSQ]
+Modules = [gargamel]
 ```
 
